@@ -10,7 +10,7 @@ To run this application, you need Python installed on your system. Follow these 
 
 # Clone the repository:
 ```python
-git clone [<repository-url>](https://github.com/svshreya02/cloud-vision-ocr-english-tamil.git)
+git clone https://github.com/svshreya02/cloud-vision-ocr-english-tamil.git
 cd <repository-directory>
 ```
 
