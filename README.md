@@ -9,12 +9,15 @@ Installation
 To run this application, you need Python installed on your system. Follow these steps to set it up:
 
 # Clone the repository:
+```python
 git clone <repository-url>
 cd <repository-directory>
+```
 
 # Install dependencies:
+```python
 pip install -r requirements.txt
-
+```
 # Set up Google Cloud Vision API:
 Create a project in the Google Cloud Platform.
 Enable the Vision API for your project.
@@ -22,7 +25,9 @@ Create a service account and download the service account key file.
 Rename your service account key file to txxxx.json and place it in the root directory of this project or set the GOOGLE_APPLICATION_CREDENTIALS environment variable to the path of your key file.
 
 # Run the application:
+```python
 streamlit run app.py
+```
 
 # Usage
 Navigate to the Streamlit web interface.
