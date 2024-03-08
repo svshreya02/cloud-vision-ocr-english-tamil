@@ -28,7 +28,7 @@ Usage
 Navigate to the Streamlit web interface.
 Use the "Upload an image" button to upload a JPEG or PNG image.
 The application will display the uploaded image and the extracted text.
-![image]([https://github.com/svshreya02/cloud-vision-ocr-english-tamil/assets/73153068/c351e2f8-0af1-4587-ac8b-14d6f5af0484](https://github.com/svshreya02/cloud-vision-ocr-english-tamil/blob/main/sample.png))
+![Sample Image](image_url)
 
 
 License
