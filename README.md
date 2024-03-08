@@ -28,7 +28,7 @@ Usage
 Navigate to the Streamlit web interface.
 Use the "Upload an image" button to upload a JPEG or PNG image.
 The application will display the uploaded image and the extracted text.
-![Sample Image](image_url)
+![Sample Image](sample.png)
 
 
 License
