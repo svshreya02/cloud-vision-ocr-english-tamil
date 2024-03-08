@@ -9,7 +9,7 @@ import os
 
 load_dotenv()
 service_account_path = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r'trueinfolabs-ocr-20c8c095084b.json'
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r'xxxxxx.json'
 
 client = vision.ImageAnnotatorClient() 
 
