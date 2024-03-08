@@ -31,5 +31,7 @@ The application will display the uploaded image and the extracted text.
 ![Sample Image](sample.png)
 
 FastAPI Code also provided for hosting
+
+
 License
 This project is licensed under the MIT License. Feel free to use it as you see fit.
