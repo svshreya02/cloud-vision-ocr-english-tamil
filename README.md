@@ -23,13 +23,13 @@ Rename your service account key file to txxxx.json and place it in the root dire
 
 # Run the application:
 streamlit run app.py
-Usage
 
+# Usage
 Navigate to the Streamlit web interface.
 Use the "Upload an image" button to upload a JPEG or PNG image.
 The application will display the uploaded image and the extracted text.
 ![Sample Image](sample.png)
 
-
+FastAPI Code also provided for hosting
 License
 This project is licensed under the MIT License. Feel free to use it as you see fit.
